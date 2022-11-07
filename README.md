@@ -2,7 +2,7 @@
 
 An easy Python implementation of Self-Training using standard classification algorithms from the Sklearn library
 
-![image](https://user-images.githubusercontent.com/15478613/200213555-f74d4c39-40b6-4932-915a-6b7e44a34e0d.png)
+![1_KqCqbiISCtMX110oTFctlA](https://user-images.githubusercontent.com/15478613/200213838-976cefa5-336f-438a-8166-31016e6259bb.gif)
 
 ## How does Self-Training work?
 You may think that Self-Training involves some magic or uses a highly complex approach. In reality, though, the idea behind Self-Training is very straightforward and can be explained by the following steps:
